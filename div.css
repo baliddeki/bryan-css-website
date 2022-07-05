@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+div.Bio {
+    background-color: grey;
+    width: 417px;
+    height: 250px;
+    border: 15px;
+    padding: 70px, 0;
+    text-align: center;
+    flex: content;
+  }
+  div.education {
+    background-color: lightslategray;
+    width: 417px;
+    height: 250px;
+    border: 15px;
+    margin-left: 417px;
+    padding: 70px, 0;
+    text-align: center;
+    flex: content;
+  }
+  div.Photo {
+    background-color:lightskyblue;
+    width: 430px;
+    height: 250px;
+    border: 15px;
+    position: absolute;
+    right: 0px;
+    padding: 70px, 0;
+    text-align: center;
+    flex: content;
+  }
+  div.ContactMe {
+    background-color: wheat;
+    width: 430px;
+    height: 250px;
+    border: 15px;
+    margin-left: 500px;
+    position: absolute;
+    right: 0px;
+    padding: 70px, 0;
+    text-align: center;
+    flex: content;
+  }
+  div.Hobbies {
+    background-color: paleturquoise;
+    width: 417px;
+    height: 250px;
+    border: 15px;
+    position: absolute;
+    padding: 70px, 0;
+    text-align: center;
+    flex: content;
+  }
+  h1{
+    color: yellowgreen;
+  }
+  .other{
+    background-color: darkgoldenrod;
+  }
+  header{
+    text-align: center;
+  }
+  div:hover{
+    background-color: chocolate;
+  }
+  .imag {
+    position: relative;
+    left:0px;
+  }
+  
